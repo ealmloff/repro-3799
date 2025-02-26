@@ -1,4 +1,4 @@
 ```bash
 dx build --release
-./target/.../release/server
+./target/dx/.../release/server
 ```
